@@ -3,7 +3,7 @@
 
 * 3.3 lbs Extra Light Liquid Malt Extract
 * 2.0 lbs Pilsen Dry Malt Extract, 15 min
-* 1.0 pound Corn Sugar, 15 min
+* 1.0 pound Cane Sugar, 15 min
 * 1.25 oz Willamette Hops, 60 min (bittering)
 * 1.0 oz Willamette Hops, 10 min (aroma)
 * Nottingham Ale Yeast
