@@ -20,3 +20,14 @@
 * At 5 minutes, add remaininghops and spices.
 * Return to boil.
 * Strain into fermenter.
+
+##Notes
+
+* This didn't turn out well. Even at bottling, there was a weird alcoholic
+flavor and an uncharacteristic sweetness.
+* Potentially ran the yeast in at too high of a temperature. This would
+explain the off flavors. They mellow over time and the finished product
+is almost drinkable, but not **good**
+* Another cause of oddness may be the obscene amount of sugar in this
+recipe. It could be so much that the yeast creates enough alcohol to kill
+it off before finishing the fermentation.

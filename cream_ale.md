@@ -20,3 +20,11 @@
 * Rerack with Oranges to make an Orange Cream Ale.
 * Try Wyeast 1010 (American Wheat) or 1056 (American Ale)
 
+##Notes
+* This looks solid when reracking.
+* With Wyeast 1056, The fermentation was low-profile -
+no real airlock activity and it was over within a week
+(measured with hydrometer)
+* Again with 1056, the yeast doesn't fall out very well - lots of things
+floating around. Hopefully secondary clears it up.
+* 

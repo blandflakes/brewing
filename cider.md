@@ -4,7 +4,7 @@
 * 4 gallons cider (no sulphur present)
 * 1 gallon honey
 * 1/2 gallon spring water
-* Wyeast 1028 London Ale
+* Wyeast 1028 London Ale (for this batch)
 * 5 tablespoons cinnamon powder
 
 ##Instructions
@@ -18,3 +18,10 @@
 6. Add cinnamon powder. Or add it in step 1. Whatever.
 7. Let sit for ALAP (the opposite of ASAP)
 8. Mix up a priming solution, bottle.
+
+##Notes
+
+* It took a while to see any fermentation activity, leading me to believe
+that I'd screwed something up. After about 60 hours, I saw activity, and
+it's been bubbling since.
+* This was actually very easy... if it turns out well, I'll make more meads.
