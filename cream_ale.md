@@ -27,4 +27,5 @@ no real airlock activity and it was over within a week
 (measured with hydrometer)
 * Again with 1056, the yeast doesn't fall out very well - lots of things
 floating around. Hopefully secondary clears it up.
-* 
+* Adding the vanilla extract seemed overkill. Consider making this same recipe without the vanilla extract, as everything else seems pretty good.
+* Yeast turned out sufficiently clear in secondary.
