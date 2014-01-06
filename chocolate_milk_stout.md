@@ -34,3 +34,4 @@
 ##Notes
 * Fermentation was less active after 24 hours
 * Initial gravity was was around 1.050
+* Gravity measured going into secondary was 1.021
