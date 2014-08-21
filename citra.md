@@ -1,4 +1,4 @@
-#Chocolate Milk Stout
+#Citra Pale Ale
 ##Ingredients
 
 * 4 lbs pale malt
