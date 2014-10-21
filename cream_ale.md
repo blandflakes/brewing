@@ -21,6 +21,8 @@
 * Try Wyeast 1010 (American Wheat) or 1056 (American Ale)
 
 ##Notes
+###First brewing (date unknown)
+
 * This looks solid when reracking.
 * With Wyeast 1056, The fermentation was low-profile -
 no real airlock activity and it was over within a week
@@ -29,3 +31,9 @@ no real airlock activity and it was over within a week
 floating around. Hopefully secondary clears it up.
 * Adding the vanilla extract seemed overkill. Consider making this same recipe without the vanilla extract, as everything else seems pretty good.
 * Yeast turned out sufficiently clear in secondary.
+
+###Second brewing (2014-10-19)
+
+* Used Irish Moss
+* Used Nottingham Ale Dry Yeast
+* Did not use any vanilla or fruit flavoring
