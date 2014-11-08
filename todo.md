@@ -12,6 +12,6 @@
 - Lambic:
   - Framboise
   - Cassis
-  - [Extract Recipe](www.homebrewtalk.com/f72/lambic-bos-3rd-bost-two-golds-322168)
+  - [Extract Recipe](http://www.homebrewtalk.com/f72/lambic-bos-3rd-bost-two-golds-322168)
 - Rauchbier
 - Spruce beer (page 212 of TCJOHB)
