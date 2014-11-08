@@ -1,8 +1,10 @@
 #Equipment/Techniques:
+
 -Try kegging
 -Try lagering
 
 #Recipes:
+
 -Maple Oatmeal Porter
 -Twix Stout
 -Espresso Stout
