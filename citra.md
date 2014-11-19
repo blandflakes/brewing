@@ -19,8 +19,13 @@
 8. Dry hop with 0.5 oz of citra
 
 ##Notes
-Turned out delicious. Very clear and flavorful.
+
+Brewed in Summer of 2014. Turned out delicious. Very clear and flavorful.
 Bottle quality was inconsistent, but for the most part good.
 The overall hop count here was probably 3/5 the amount recommended
 in the source recipes, but any more probably would have been too
 much for me.
+
+Brewed in Fall of 2014. Used hops rather than pellets. On bottling (2014/11/19), lacked taste. Hopefully will taste better after bottle conditioning, but I'm not hopeful. Probably should have either used more hops or used the pellets.
+
+
