@@ -26,3 +26,17 @@
 11. pitch yeast, wait for 7 days or for gravity to level out
 12. move to secondary
 13. add coffee, cacao in secondary
+
+##Notes
+
+Brewed 2014-11-25. Went easier on the listed grains. However, had an additional grain, as I didn't find the Coffee Malt until I'd already found a potential subsitute.
+
+Grain counts:
+
+* 11.5 oz Crystal 120
+* 8 oz Black Patent
+* 12 oz Chocolate
+* 12 oz Roasted Barley (intended as a placeholder for Coffee Malt)
+* 12 oz Coffee Malt
+
+Also used WLP004 (White Labs Irish Ale) as the store didn't have Wyeast Irish Ale.
