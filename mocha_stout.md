@@ -40,3 +40,5 @@ Grain counts:
 * 12 oz Coffee Malt
 
 Also used WLP004 (White Labs Irish Ale) as the store didn't have Wyeast Irish Ale.
+
+Also threw in 8 oz of maltodextrin that I had lying around.
