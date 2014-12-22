@@ -22,5 +22,7 @@
 
 ##Notes
 Brewed 2014-11-08, used Irish Moss, racked to 5 gallon bucket.
+
 Reracked first brewing on 2014-12-21.  Tastes delicious.
+
 Brewed another batch 2014-12-20, directly into a carboy.

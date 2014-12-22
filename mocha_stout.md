@@ -42,6 +42,9 @@ Grain counts:
 Also used WLP004 (White Labs Irish Ale) as the store didn't have Wyeast Irish Ale.
 
 Also threw in 8 oz of maltodextrin that I had lying around.
+
 2014-11-30: Accidentally mistook for sour and reracked without cacao or coffee. Poured in lambic yeast on reracking (we'll see how this turns out).
+
 2014-12-18: Compare with [McAustin's Mocha Stout](www.homebrewtalk.com/f68/mcaustins-mocha-stout-w-cold-brewed-coffee-27958/)
+
 2014-12-21: Identified the mistake, added cacao and coffe, Will see how it tastes at the new year.
