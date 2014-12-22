@@ -22,15 +22,5 @@
 
 ##Notes
 Brewed 2014-11-08, used Irish Moss, racked to 5 gallon bucket.
-
-On 2014-11-30, came back to an exploaded ale bucket. Cause of explosion is unknown - it's not exclusively the airlock, which showed no signs of blockage. Regardless, this has implications:
-
-* I have no idea when the explosion happened. There could be quite a bit of oxygen in the mix.
-* I reracked to secondary so I could clean the bucket.
-  * Is this early? Does it matter that I moved this prematurely?
-  * I sanitized the destination carboy. Is the starsan going to kill off the bacteria we want?
-* I took a sample of the slurry at the bottom. Maybe I can reuse this?
-
-In addition, I noticed that the mixture was both wheaty in smell and very dark in color. Not sure these properties are entirely desirable (especially the wheatiness).
-
-So the plan going forward is to leave the 2014-11-08 brewing in secondary as originally planned (multiple months). Will also try another sour in the pipeline in case this one fails. This may restrict me to running some ales in bucket only, but if the sours turn out well I think it will be worth it (especially since I'm so far ahead right now).
+Reracked first brewing on 2014-12-21.  Tastes delicious.
+Brewed another batch 2014-12-20, directly into a carboy.
