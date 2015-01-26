@@ -48,3 +48,5 @@ Also threw in 8 oz of maltodextrin that I had lying around.
 2014-12-18: Compare with [McAustin's Mocha Stout](www.homebrewtalk.com/f68/mcaustins-mocha-stout-w-cold-brewed-coffee-27958/)
 
 2014-12-21: Identified the mistake, added cacao and coffe, Will see how it tastes at the new year.
+
+2015-01-25: To clarify, it ends up that no lambic anything ended up here (just a case of mislabeling). That said, today I bottled this. On sampling, I was unimpressed, and may have to abandon the idea of a chocolate stout entirely as it's too much work with no real results.
