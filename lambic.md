@@ -1,5 +1,9 @@
 #Lambic
+
+From: [Extract Recipe](http://www.homebrewtalk.com/f72/lambic-bos-3rd-bost-two-golds-322168)
+
 ##Ingredients
+
 
 ###5 Gallons
 * 3 lb Golden Light DME
