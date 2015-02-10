@@ -2,6 +2,15 @@
 
 - Try lagering
 
+#Issues to resolve
+##Astringent Taste
+Consistently appears in nearly every brew. Cream Ale doesn't suffer as much for it...
+
+Candidates:
+* Oxidizing (stopped reracking to secondary, but I autosiphon so that shouldn't be it)
+* Adding hops too early (according to a random thread, the malt must be present first).
+* Water - could just be chlorine or similar. Going to try Campden tablets.
+
 #Recipes:
 
 - Maple Oatmeal Porter
@@ -17,12 +26,17 @@
   - Grape
   - Cloudberry
 - [Berliner Weisse (Summer)](http://www.snbbrewing.com/2013/06/weiss-hell-not.html)
+- Pilsner
+- Kolsch
+- [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
 - Rauchbier
+- Marzen (brew in July)
 - Something with lavender - pale ale?
 - Chocolate chip banana whitbread
 - Yarrow beer (May/June)
 
 #Near-term schedule:
+1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone
 1. Rauchbier
 2. Partition lambic into fruit varieties
 * aronia
@@ -30,5 +44,4 @@
 * plum
 * raspberry/blackberry/both
 * plain
-3. Marzen
 4. Yarrow
