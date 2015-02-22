@@ -1,6 +1,7 @@
 #Equipment/Techniques:
 
 - Try lagering
+- Try partial or full mash
 
 #Issues to resolve
 ##Astringent Taste
@@ -11,7 +12,7 @@ Candidates:
 * Adding hops too early (according to a random thread, the malt must be present first).
 * Water - could just be chlorine or similar. Going to try Campden tablets.
 
-#Recipes:
+#Recipes to try:
 
 - Maple Oatmeal Porter
 - Twix Stout
@@ -37,8 +38,8 @@ Candidates:
 
 #Near-term schedule:
 1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone
-1. Rauchbier
-2. Partition lambic into fruit varieties
+2. Rauchbier
+3. Partition lambic into fruit varieties
 * aronia
 * cherry
 * plum
