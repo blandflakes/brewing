@@ -14,3 +14,5 @@ Brew that shit according to the times presented.
 
 ##Notes
 Brewed 2015-01-24. Forgot irish moss, so we'll see how that goes.
+
+Bottled 2015-02-27. Irish moss is definitely a requirement with this yeast. Very cloudy. Tastes nice and malty, though is lighter than I would want a red to be.
