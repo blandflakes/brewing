@@ -19,6 +19,7 @@
 * Add 3 oz (or more) Vanilla extract before bottling.
 * Rerack with Oranges to make an Orange Cream Ale.
 * Try Wyeast 1010 (American Wheat) or 1056 (American Ale)
+* Alternatively, try a lager yeast (maybe American Lager)
 
 ##Notes
 ###First brewing (date unknown)

@@ -21,3 +21,5 @@
 ##Notes
 Bought a chest freezer and temperature controller for lagering.
 Will be the first batch with campden tablets
+
+Brewed on 2015-03-01. Used campden tablets and irish moss. Pitched at 70 degrees and put into freezer with temp controller set to 50 degrees F.
