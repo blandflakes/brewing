@@ -30,11 +30,12 @@ Candidates:
 - Pilsner
 - Kolsch
 - [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
-- Rauchbier
 - Marzen (brew in July)
 - Something with lavender - pale ale?
 - Chocolate chip banana whitbread
 - Yarrow beer (May/June)
+- English Ale with Brett
+- Barleywine
 
 #Near-term schedule:
 4. Yarrow, while Rauchbier ferments
