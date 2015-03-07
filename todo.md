@@ -37,12 +37,12 @@ Candidates:
 - Yarrow beer (May/June)
 
 #Near-term schedule:
-1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone
-2. Rauchbier
+4. Yarrow, while Rauchbier ferments
+1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
+  * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
 3. Partition lambic into fruit varieties
-* aronia
-* cherry
-* plum
-* raspberry/blackberry/both
-* plain
-4. Yarrow
+  * aronia
+  * cherry
+  * plum
+  * raspberry/blackberry/both
+  * plain

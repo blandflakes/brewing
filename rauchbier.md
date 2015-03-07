@@ -23,3 +23,9 @@ Bought a chest freezer and temperature controller for lagering.
 Will be the first batch with campden tablets
 
 Brewed on 2015-03-01. Used campden tablets and irish moss. Pitched at 70 degrees and put into freezer with temp controller set to 50 degrees F.
+
+Checked progress on 2015-03-06. Gravity was 1.020. Noticed some clumps of something on the furface:
+
+![Bubbly Rauchbier](images/rauch_maybe_infected.jpg)
+
+Was concerned that this was an acetobacter infection. However, on examination on 2015-03-07, looks to be bubbles from yeast activity, and less like an infection.
