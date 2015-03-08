@@ -7,10 +7,19 @@
 ##Astringent Taste
 Consistently appears in nearly every brew. Cream Ale doesn't suffer as much for it...
 
-Candidates:
+###Candidates:
 * Oxidizing (stopped reracking to secondary, but I autosiphon so that shouldn't be it)
 * Adding hops too early (according to a random thread, the malt must be present first).
 * Water - could just be chlorine or similar. Going to try Campden tablets.
+
+##Low Starting Gravity
+I need to measure this more consistently, but I think my Original Gravities are starting relatively low. I measured my Rauchbier before much fermentation was underway and got only 1.020. It's possible that more fermentation than I thought had completed, or it's possible that I have little malt.
+
+###Solutions:
+1. Measure 3 gallon and 5 gallon marks on carboys (to avoid putting too much water in)
+2. Be sure to properly mix sugar and extra water
+3. Always take the reading
+4. If #3 shows consistently low OG, start adding more malt.
 
 #Recipes to try:
 
