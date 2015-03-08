@@ -38,7 +38,8 @@ Candidates:
 - Barleywine
 
 #Near-term schedule:
-4. Yarrow, while Rauchbier ferments
+1. Blonde Ale for Spring
+4. Yarrow, while Rauchbier ferments, once in season
 1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
   * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
 3. Partition lambic into fruit varieties
