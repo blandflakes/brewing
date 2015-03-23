@@ -1,6 +1,5 @@
 #Equipment/Techniques:
 
-- Try lagering
 - Try partial or full mash
 
 #Issues to resolve
@@ -11,6 +10,7 @@ Consistently appears in nearly every brew. Cream Ale doesn't suffer as much for 
 * Oxidizing (stopped reracking to secondary, but I autosiphon so that shouldn't be it)
 * Adding hops too early (according to a random thread, the malt must be present first).
 * Water - could just be chlorine or similar. Going to try Campden tablets.
+* Hot steeping - I could have sworn I encountered the weird flavor with recipes lacking speciality grains. However, trying the Irish Red revealed INSANE bitterness. Letting it sit for another couple of weeks, but perhaps paying more attention to the temperature of the water during steeping would resolve this.
 
 ##Low Starting Gravity
 I need to measure this more consistently, but I think my Original Gravities are starting relatively low. I measured my Rauchbier before much fermentation was underway and got only 1.020. It's possible that more fermentation than I thought had completed, or it's possible that I have little malt.
@@ -45,10 +45,12 @@ I need to measure this more consistently, but I think my Original Gravities are 
 - Yarrow beer (May/June)
 - English Ale with Brett
 - Barleywine
+- Blonde Ale
 
 #Near-term schedule:
-1. Blonde Ale for Spring
-4. Yarrow, while Rauchbier ferments, once in season
+1. Righteous American Ale (fast fermentation, p170 of TCJOHB)
+4. Yarrow, once Righteous American Ale is conditioning.
+1. Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
 1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
   * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
 3. Partition lambic into fruit varieties
@@ -57,3 +59,11 @@ I need to measure this more consistently, but I think my Original Gravities are 
   * plum
   * raspberry/blackberry/both
   * plain
+
+#"Favorites"
+
+Keeping track of success stories here.
+
+##Brews
+* Cream Ale - repeatedly delicious
+
