@@ -16,3 +16,5 @@ Brewed 2015-03-28. Used hop flowers rather than pellets, and compensated as foll
 0.33 oz Willamette
 
 Used Wyeast 1098, DID include gypsum, DID include campden, forgot Irish Moss.
+
+Original Gravity: 1.060
