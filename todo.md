@@ -12,8 +12,10 @@ Consistently appears in nearly every brew. Cream Ale doesn't suffer as much for 
 * Water - could just be chlorine or similar. Going to try Campden tablets.
 * Hot steeping - I could have sworn I encountered the weird flavor with recipes lacking speciality grains. However, trying the Irish Red revealed INSANE bitterness. Letting it sit for another couple of weeks, but perhaps paying more attention to the temperature of the water during steeping would resolve this.
 
-##Low Starting Gravity
+##Low Starting Gravity/Low alchol content
 I need to measure this more consistently, but I think my Original Gravities are starting relatively low. I measured my Rauchbier before much fermentation was underway and got only 1.020. It's possible that more fermentation than I thought had completed, or it's possible that I have little malt.
+
+Another option here is the pitch rate. According to Wyeast, a low pitch rate an contribute to a high terminal gravity. Perhaps I should start making starters (which apparently reduces "off" flavors in most cases anyway (note that some styles benefit from underpitching, like weihenstephan)).
 
 ###Solutions:
 1. Measure 3 gallon and 5 gallon marks on carboys (to avoid putting too much water in)
