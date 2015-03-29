@@ -48,9 +48,9 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - English Ale with Brett
 - Barleywine
 - Blonde Ale
+- Cider lambic?
 
 #Near-term schedule:
-1. Righteous American Ale (fast fermentation, p170 of TCJOHB)
 4. Yarrow, once Righteous American Ale is conditioning.
 1. Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
 1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
