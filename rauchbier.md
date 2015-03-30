@@ -31,3 +31,5 @@ Checked progress on 2015-03-06. Gravity was 1.020. Noticed some clumps of someth
 Was concerned that this was an acetobacter infection. However, on examination on 2015-03-07, looks to be bubbles from yeast activity, and less like an infection.
 
 Sampled gravity on 2015-03-23. Came out to about 1.029, which makes my previous reading suspect. In either case, fermentation is continuing along. Taste was solid, if a little weak. Will check the gravity after my trip to Colorado to see if it's ready for a rest.
+
+Observed much slowed fermentation 2015-03-30. Performing a diacetyl rest by setting the temp controller to 65 degrees. Will possibly lager for a couple of weeks after the rest is complete.
