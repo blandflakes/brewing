@@ -33,3 +33,5 @@ Was concerned that this was an acetobacter infection. However, on examination on
 Sampled gravity on 2015-03-23. Came out to about 1.029, which makes my previous reading suspect. In either case, fermentation is continuing along. Taste was solid, if a little weak. Will check the gravity after my trip to Colorado to see if it's ready for a rest.
 
 Observed much slowed fermentation 2015-03-30. Performing a diacetyl rest by setting the temp controller to 65 degrees. Will possibly lager for a couple of weeks after the rest is complete.
+
+Rest ended 2015-04-06. Gradually dropped temp to 40 degrees for lagering.
