@@ -18,3 +18,7 @@ Brewed 2015-03-28. Used hop flowers rather than pellets, and compensated as foll
 Used Wyeast 1098, DID include gypsum, DID include campden, forgot Irish Moss.
 
 Original Gravity: 1.060
+
+Bottled 2015-04-8. Tasted clean, not as hoppy as I expected. Was very clear.
+
+Final Gravity: 1.002 (!!!)
