@@ -8,7 +8,7 @@ From: [Extract Recipe](http://www.homebrewtalk.com/f72/lambic-bos-3rd-bost-two-g
 ###5 Gallons
 * 3 lb Golden Light DME
 * 3 lb Wheat DME
-* 4 oz Maltodextrin
+  * 4 oz Maltodextrin
 * 2 oz aged hops (also called lambic hops)
 * Wyeast 3278 Belgian Lambic Blend
 
@@ -30,3 +30,13 @@ Brewed 2014-11-08, used Irish Moss, racked to 5 gallon bucket.
 Reracked first brewing on 2014-12-21.  Tastes delicious.
 
 Brewed another batch 2014-12-20, directly into a carboy.
+
+Reracked batch #1 again on 2015-04-10, splitting into five 1-gallon carboys.
+
+For fruit, used ~1 pound each of:
+* raspberries/blackberries
+* plums
+* cherries (maraschino, unfortunately, but we'll see)
+* aronia
+
+And did one gallon plain.

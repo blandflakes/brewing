@@ -44,23 +44,15 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Marzen (brew in July)
 - Something with lavender - pale ale?
 - Chocolate chip banana whitbread
-- Yarrow beer (May/June)
 - English Ale with Brett
 - Barleywine
 - Blonde Ale
 - Cider lambic?
 
 #Near-term schedule:
-4. Yarrow, once Righteous American Ale is conditioning.
 1. Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
 1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
   * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
-3. Partition lambic into fruit varieties
-  * aronia
-  * cherry
-  * plum
-  * raspberry/blackberry/both
-  * plain
 
 #"Favorites"
 
