@@ -64,5 +64,5 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 Keeping track of success stories here.
 
 ##Brews
-* Cream Ale - repeatedly delicious
+* Cream Ale - repeatedly delicious. Next time, want to try doing more with it - flaked corn, for example.
 
