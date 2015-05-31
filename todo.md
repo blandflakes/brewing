@@ -49,6 +49,7 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Blonde Ale
 - Cider lambic?
 - Zest Bomb
+- Acerglyn
 
 #Near-term schedule:
 ##Lagers
