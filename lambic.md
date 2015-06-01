@@ -1,6 +1,6 @@
 #Lambic
 
-From: [Extract Recipe](http://www.homebrewtalk.com/f72/lambic-bos-3rd-bost-two-golds-322168)
+From: [Extract Recipe](http://www.homebrewtalk.com/showthread.php?t=322168)
 
 ##Ingredients
 
