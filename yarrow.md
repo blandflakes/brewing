@@ -10,3 +10,5 @@
 ##Notes
 
 Brewed on 2015-04-10. Only had 4 ounces of yarrow available, so split that 3/5 and 2/5. Used Irish Moss and Wyest 1056.
+
+Bottled on 2015-05-31. The beer had a lot of floating particulates, but was clear in a sampling glass. Tasted sort of floral, but maybe slightly bland. Hopefully bottle conditioning and chilling improve the flavor.

@@ -35,3 +35,7 @@ Sampled gravity on 2015-03-23. Came out to about 1.029, which makes my previous 
 Observed much slowed fermentation 2015-03-30. Performing a diacetyl rest by setting the temp controller to 65 degrees. Will possibly lager for a couple of weeks after the rest is complete.
 
 Rest ended 2015-04-06. Gradually dropped temp to 40 degrees for lagering.
+
+Kegged 2015-05-22 (force carbination).
+
+Drank on 2015-05-25. Tasted delicious - clean, malty, lager flavor. Got a hint of smoke, but not as much as one would hope. Will likely want to retry as a full or partial mash recipe.
