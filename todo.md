@@ -37,11 +37,7 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
   - Current
   - Grape
   - Cloudberry
-- [Berliner Weisse (Summer)](http://www.snbbrewing.com/2013/06/weiss-hell-not.html)
-- Pilsner
 - Kolsch
-- [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
-- Marzen (brew in July)
 - Something with lavender - pale ale?
 - Chocolate chip banana whitbread
 - English Ale with Brett
@@ -50,15 +46,19 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Cider lambic?
 - Zest Bomb
 - Acerglyn
+- Fire mead: use peppers
+- Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
+- Zest bomb
 
 #Near-term schedule:
 ##Lagers
-1. Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone, once rauch is ready to rerack
+- [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
+- Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone
   * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
+- Marzen (brew in July)
 
 ##Ales
-1. Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
-1. Zest bomb
+- [Berliner Weisse (Summer)](http://www.snbbrewing.com/2013/06/weiss-hell-not.html)
 
 #"Favorites"
 
@@ -66,4 +66,4 @@ Keeping track of success stories here.
 
 ##Brews
 * Cream Ale - repeatedly delicious. Next time, want to try doing more with it - flaked corn, for example.
-
+* Rauchbier - turned out delicious, though smoke beer was subtle.
