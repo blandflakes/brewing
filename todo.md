@@ -48,13 +48,11 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Acerglyn
 - Fire mead: use peppers
 - Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
-- Zest bomb
+- Rhubarb Sour
 
 #Near-term schedule:
 ##Lagers
 - [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
-- Pilsner: http://byo.com/stories/item/3030-pilsner-urquell-clone
-  * need to replace laaglander. Try 1/2 maltodextrin, 1/2 munton's light DME
 - Marzen (brew in July)
 
 ##Ales
