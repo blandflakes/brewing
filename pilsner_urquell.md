@@ -1,4 +1,7 @@
-#Pilsner Urquell (adapted from http://byo.com/stories/item/3030-pilsner-urquell-clone)
+#Pilsner Urquell
+
+(adapted from http://byo.com/stories/item/3030-pilsner-urquell-clone)
+
 ##Ingredients (5 gallons)
 
 * 0.5 lb maltodextrin
@@ -27,5 +30,5 @@
 9. Lager for at least five weeks at 40 degress Fahrenheit or below.
 
 ##Notes
-Brewed 2015-07-11. Used 3.3 lbs of Cooper's Light since I only had one can and didn' want to order more.
+Brewed 2015-07-11. Used 3.3 lbs of Cooper's Light since I only had one can and didn't want to order more.
 
