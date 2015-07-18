@@ -53,10 +53,9 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 #Near-term schedule:
 ##Lagers
 - [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
-- Marzen (brew in July)
+- Marzen (brew in July, after Urquell is done with primary fermentation)
 
 ##Ales
-- [Berliner Weisse (Summer)](http://www.snbbrewing.com/2013/06/weiss-hell-not.html)
 
 #"Favorites"
 
