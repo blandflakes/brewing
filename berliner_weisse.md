@@ -21,4 +21,6 @@ Adapted from [Weisse the Hell Not](http://www.snbbrewing.com/2013/06/weiss-hell-
 
 
 ##Notes
-Brewed 2015-07-18. Used GigaYeast lacto, and GigaYeast GY021 Kolschbier. Subsituted pilsen light for extra light DME.
+Brewed 2015-07-18. Used GigaYeast lacto, and GigaYeast GY021 Kolschbier. Substituted pilsen light for extra light DME.
+
+2015-07-25: Added Kolsch, put in fermentation chamber @ 65 degrees Fahrenheit.
