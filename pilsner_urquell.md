@@ -32,3 +32,6 @@
 ##Notes
 Brewed 2015-07-11. Used 3.3 lbs of Cooper's Light since I only had one can and didn't want to order more.
 
+On 2015-08-06, still some visible activity. Quite a long fermentation, especially given that it is fermented above-temp.
+
+On 2015-08-11, began dropping to lagering temp.

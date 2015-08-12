@@ -40,3 +40,5 @@ For fruit, used ~1 pound each of:
 * aronia
 
 And did one gallon plain.
+
+On 2015-08-05, bottled each of the raspberry, cherry, aronia, and plain sours. Used 1.5 oz of DME for priming.
