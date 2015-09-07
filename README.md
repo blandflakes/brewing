@@ -49,18 +49,45 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Fire mead: use peppers
 - Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
 - Rhubarb Sour
+- [Coors Light clone] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
+- Marzen
 
 #Near-term schedule:
-##Lagers
-- [Coors Light clone (Brew in April)] (http://www.homebrewtalk.com/f39/coors-light-clone-i-created-ended-up-being-very-awesome-take-look-230070/)
-- Marzen (brew in July, after Urquell is done with primary fermentation)
-
 ##Ales
+- [Dunkelweizen] (https://www.reddit.com/r/Homebrewing/comments/1lvidb/brewed_up_a_dunkelweizen_very_happy_with_the/)
+  * Consider molasses vs brown sugar as a future alteration
+  * Split batch between 3068 and 3638
+  * Reduce Hops
+- Cream Ale
+
+##Lagers
+- Munich Dunkel (https://www.reddit.com/r/Homebrewing/comments/11yw0v/your_advice_please_on_a_spiced_dunkel/)
+- Schwarzbier
 
 #"Favorites"
-
 Keeping track of success stories here.
 
-##Brews
+##House Brews, by Category
+###Light, Refreshing
 * Cream Ale - repeatedly delicious. Next time, want to try doing more with it - flaked corn, for example.
+* Righteous American Ale
+
+###Wheaty
+* Hefeweizen
+* Dunkelweizen
+
+###Dark, Winter
+* Munich Dunkle
+* Schwarzbier
+
+###Unique, Fun
 * Rauchbier - turned out delicious, though smoke beer was subtle.
+* Spruce - Delicious, interesting. Small quantities, though.
+
+###Crisp, Clean
+* Pilsner Urquell
+* (Kolsch)
+
+###Filling, Heavy
+* Mocha Stout
+* Oatmeal Stout
