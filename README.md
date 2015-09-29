@@ -53,11 +53,10 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Marzen
 
 #Near-term schedule:
+##Oddities
+- [Acerglyn] (http://meadist.com/making-mead/mead-recipes/sparkling-oaked-acerglyn-maple-mead-recipe/)
+
 ##Ales
-- [Dunkelweizen] (https://www.reddit.com/r/Homebrewing/comments/1lvidb/brewed_up_a_dunkelweizen_very_happy_with_the/)
-  * Consider molasses vs brown sugar as a future alteration
-  * Split batch between 3068 and 3638
-  * Reduce Hops
 - Cream Ale
 
 ##Lagers
