@@ -45,7 +45,6 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 - Blonde Ale
 - Cider lambic?
 - Zest Bomb
-- Acerglyn
 - Fire mead: use peppers
 - Who's in the Garden Grand Cru (p 192 of TCJOHB, springish)
 - Rhubarb Sour
@@ -54,7 +53,6 @@ Another option here is the pitch rate. According to Wyeast, a low pitch rate an 
 
 #Near-term schedule:
 ##Oddities
-- [Acerglyn] (http://meadist.com/making-mead/mead-recipes/sparkling-oaked-acerglyn-maple-mead-recipe/)
 
 ##Ales
 - Cream Ale
